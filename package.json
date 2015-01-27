@@ -5,6 +5,7 @@
   "description": "A packery mixin for React.js",
   "dependencies": {
     "packery": "eiriklv/packery",
+    "draggabilly": "^1.1.1",
     "imagesloaded": "eiriklv/imagesloaded"
   },
   "devDependencies": {},
